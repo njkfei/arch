@@ -73,7 +73,11 @@
 - 如果缓存不存在，怎么搞
 - 使用过哪些redis命令
 - 一致性hash
-
+- redis + lua
+- java调用lau redis脚本 eval evalsha
+- jedis client isBroken重连
+- redis数据结构底层存储结构是什么
+- redis集中清理过期的key时，会发生什么事情
 
 # 线程池
 - 线程池有哪些核心参数
@@ -111,6 +115,8 @@
 - jstat
 - jstatd
 - atomic volatile区别
+- Collections.unmodifiableCollection使用场景是什么
+- RuntimeException
 
 # linux
 - swap
@@ -146,6 +152,7 @@
 - BIO,NIO,AIO
 - 推送
 - 延迟队列
+- http长连接如何搞
 
 # MQ
 - 延迟消费
