@@ -78,6 +78,8 @@
 - jedis是线程安全的吗？
 - http连接池
 - ThreadLocal
+- CyclicBarrier CoundDownLatch
+- Lock Condition
 
 # 锁
 - 偏向锁
