@@ -121,7 +121,7 @@
 - RuntimeException
 
 # linux
-- swap
+- swap,出现了swap，会发生什么
 - awk,sed,grep,find
 - 出现大量的TIME_WAIT意味着什么？
 
