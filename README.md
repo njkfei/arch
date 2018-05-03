@@ -88,7 +88,7 @@
 - ThreadLocal
 - CyclicBarrier CoundDownLatch
 - Lock Condition
-
+- 线程池execute和submit区别
 # 锁
 - 偏向锁
 - 非偏向锁
@@ -119,11 +119,16 @@
 - atomic volatile区别
 - Collections.unmodifiableCollection使用场景是什么
 - RuntimeException
+- 如何找到cpu最大的线程
+- jvm跨32G现象
 
 # linux
 - swap,出现了swap，会发生什么
 - awk,sed,grep,find
 - 出现大量的TIME_WAIT意味着什么？
+- top upload负载参数意义
+- pidstat
+- cut,split
 
 # 机器学习
 - 推荐系统原理
@@ -138,13 +143,20 @@
 - 调用链跟踪
 - 监控和报警
 - 慢查询
+- 秒杀系统设计
+- 订单系统设计
+- 推送系统设计
+- 服务拆分，如何拆
 
 # 搜索
 - qps性能
 - 建索引性能
 - 段合并
+- es filter和query的区别
+- 如何尽量避免Elasticsearch脑裂问题
 - 水平扩展
 - 监控
+- es如何规划节点分配 主从 多主从
 
 # nginx
 - break,last,rewrite
