@@ -92,12 +92,13 @@
 - 锁消除
 - 锁膨胀
 - 分布式锁
+- 锁分段
 
 # java
 - 普通对象与类对象
 - java范型，<extend ?> <super ?> T
 - sync关键字是否适用于静态方法
-- java并发包
+- java并发包,源码分析
 - java同步器
 - invokeall和invokeany
 - jvm原理，jmm内存模型
