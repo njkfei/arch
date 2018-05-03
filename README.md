@@ -5,7 +5,7 @@
 - 性能优化
 - 分布式事务
 - 降级，限流，熔断
-- 缓存穿透
+- 缓存
 - 设计模式
 - 线程池
 - 锁
@@ -14,6 +14,9 @@
 - 机器学习
 - 架构设计
 - 搜索
+- nginx
+- IO
+- MQ
 
 # dubbo
 - dubbo代码框架
@@ -30,6 +33,8 @@
 - 如何自定义元素
 - 如何自定义注解
 - spring源码分析
+- spring aop
+- 动态代理
 
 # 数据库
 - 数据库索引原理
@@ -42,6 +47,12 @@
 - 上亿的数据上，新增一列，会发生什么现象
 - 数据同步中心RDC
 - binlog
+- 数据库性能优化，慢查询
+- mybatis关键字threshold
+- replace into的原理，以及副作用
+- insert into on duplicate key 
+- cas
+- 数据库的锁级别 
 
 # 性能优化
 - 如何搞
@@ -54,16 +65,19 @@
 # 降级，限流，熔断
 - 核心链路，非核心链路
 
-# 缓存穿透
+# 缓存
+- 缓存穿透
 - 数据一致性
 - 如果缓存不存在，怎么搞
 - 使用过哪些redis命令
+- 一致性hash
 
 
 # 线程池
 - 线程池有哪些核心参数
 - jedis是线程安全的吗？
 - http连接池
+- ThreadLocal
 
 # 锁
 - 偏向锁
@@ -77,6 +91,7 @@
 
 # java
 - 普通对象与类对象
+- java范型，<extend ?> <super ?> T
 - sync关键字是否适用于静态方法
 - java并发包
 - java同步器
@@ -90,6 +105,7 @@
 - jmap
 - jstat
 - jstatd
+- atomic volatile区别
 
 # linux
 - swap
@@ -114,3 +130,17 @@
 - qps性能
 - 建索引性能
 - 段合并
+- 水平扩展
+- 监控
+
+# nginx
+- break,last,rewrite
+- nginx工作阶段，content rewrite
+
+# IO
+- BIO,NIO,AIO
+- 推送
+- 延迟队列
+
+# MQ
+- 延迟消费
