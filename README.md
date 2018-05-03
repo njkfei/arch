@@ -89,6 +89,7 @@
 - CyclicBarrier CoundDownLatch
 - Lock Condition
 - 线程池execute和submit区别
+
 # 锁
 - 偏向锁
 - 非偏向锁
@@ -121,6 +122,7 @@
 - RuntimeException
 - 如何找到cpu最大的线程
 - jvm跨32G现象
+- jvm内存一直增长，意味着什么
 
 # linux
 - swap,出现了swap，会发生什么
@@ -173,6 +175,7 @@
 
 # 监控报警
 - 慢查询监控
+- TCP连接数监控
 - 系统监控
 - 业务监控
 - 进程监控
