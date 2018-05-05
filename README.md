@@ -61,6 +61,7 @@
 - insert into on duplicate key
 - cas
 - 数据库的锁级别
+- mysql事务原理
 
 # 性能优化
 - 如何搞
