@@ -58,9 +58,9 @@
 - 数据库性能优化，慢查询
 - mybatis关键字threshold
 - replace into的原理，以及副作用
-- insert into on duplicate key 
+- insert into on duplicate key
 - cas
-- 数据库的锁级别 
+- 数据库的锁级别
 
 # 性能优化
 - 如何搞
@@ -176,6 +176,7 @@
 - 推送
 - 延迟队列
 - http长连接如何搞
+- SOCKET优化
 
 # MQ
 - 延迟消费
